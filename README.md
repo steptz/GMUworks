@@ -1,4 +1,4 @@
-# GMUworks
+# GMUworks: A Selection of Assignments from GMU Courses
 
 
 
