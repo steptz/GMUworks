@@ -3,7 +3,7 @@
 
 
 ### CDS 101: Introduction to Computational and Data Sciences
-Course Description: Introduction to the use of computers in scientific discovery through simulations and data analysis. Covers historical development and current trends in the field.
+**Course Description:** Introduction to the use of computers in scientific discovery through simulations and data analysis. Covers historical development and current trends in the field.
 
 ### CDS 130: Computing for Scientists
 Course Description: Covers use of computers to solve practical scientific problems. Topics include creating effective scientific presentations, analysis of experimental data, online literature, data/information ethics, scientific modeling, and communication/collaboration tools. Designed to equip students with the knowledge and confidence they need to use future hardware and software systems both as students and throughout their scientific careers.
