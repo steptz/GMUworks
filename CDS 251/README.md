@@ -1,4 +1,4 @@
-﻿Assignment #5
+# Assignment #5
 
 Use the same data file, **Numbers1.txt**, from assignment #3. Write a Fortran program with the following specifications:
 
@@ -8,9 +8,3 @@ Use the same data file, **Numbers1.txt**, from assignment #3. Write a Fortran pr
 - Last Part: Write to a file named **Output.txt** as follows. The first line is an integer which is the number of numbers processed. Then, write all the numbers in sorted order, one per line. They will be written in sorted order if you access the data through the index. This part of the code will look identical to the code where you read in the data except there will be a **write(42,\*)** statement instead of a **read(41,\*)** statement and of course the array index will be the indexed number.
 - Print ’Done!’ to the screen as the last line before the end of the program.
 - As usual, follow the programming style guide.
-
-
-**10 points Extra Credit**: Time how long the program runs (user time). **Com- pute** how long it would take 100,000 numbers to be sorted using *O*() formula from algorithm complexity. Download Numbers2.txt and run Bubble Sort on it. Compare the computed time with this run. In the report, be sure to include 1) user time on file Numers1.txt, 2) Computed time for 100,000 numbers, 3) user time on file Numbers2.txt
-
-
-**Submission:** Write a short report about your experience with implementing Bubble Sort. Submit your report in **.pdf** format on the assignment page. Also submit your Fortran program on the assignment page. **Do not** submit the output file ’Output.txt’ to the assignment page.
