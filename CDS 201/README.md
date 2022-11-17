@@ -1,8 +1,4 @@
-﻿#
-# **Fall 2020 CDS 201**
-**Introduction to Computational Social Science**
-
-# **Research Project Guidelines**
+# Research Project Guidelines
 
 A research project (paper and presentation) will count as 40% of your final grade. Students are expected to work in groups of *three to four*. One grade will be given per group, unless there are extenuating circumstances in which different grades should be given to individuals within a group. This must be discussed with the instructor.
 
@@ -31,24 +27,19 @@ The final paper should be a minimum of 3000 words and no more than 5000 words (i
 
 The paper is expected to be of similar style to that of a research paper (including the appropriate referencing style and good use of English). That is, it should have the following sections, or be similarly organized:
 
-**Abstract**
-
+**Abstract** 
 Summarizing the paper
 
-**Introduction**
-
+**Introduction** 
 Discussing the purpose of the model, i.e., what is the model “for”; not what is the model “of”
 
-**Background**
-
+**Background** 
 Describing prior work has been carried out in your area of research
 
-**Methodology**
-
+**Methodology** 
 Describing the model (i.e. How did you go about building the model)
 
-**Results**
-
+**Results** 
 Systematic experimenting with the model and presenting of model results.
 
 **Summary/conclusion**
@@ -68,16 +59,5 @@ Your presentation on December 10th should be no longer than 15 minutes. It shoul
 *Guidelines for Additional Material*
 
 In addition to the paper and presentation, you may also create a web page with animations, model demo, etc. if you like. See, for example, the McBride page on his ZI Trading model (<http://www.memcbride.net/models/2014/7/11/zi-trading>). Ideally this would be done inside Blackboard. Please discuss this with the instructor beforehand.
-
-**Metrics for grading the paper:**
-
-
-Once again, the key dates for this project are:
-
-- **Monday or Wednesday November 3rd or 5th in class** - presentation of project proposal and progress to date
-- **Thursday, December 10th in class** – presentation of final project
-- **Monday, December 14th by the end of the day** – all final project material (including paper, model code, data) is due
-4
-
 
 [^1]: If code is used that is not your own please cite it accordingly and provide a link to the code.
