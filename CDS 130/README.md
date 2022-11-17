@@ -1,6 +1,6 @@
-# Weekly Assignment (WA13) CDS – 130
+# Weekly Assignment (WA13)
 
-## Due date: November 25 at 11:59pm
+**Due date: November 25 at 11:59pm**
 
 
 Write a pattern detection algorithm that finds the below pattern (THE ENTIRE NINE CELLS—that is, ALL the 1s AND the 0s, not just the 1s!) in the given A matrix. Your tasks are the following:
