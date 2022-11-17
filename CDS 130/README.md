@@ -7,10 +7,10 @@ Write a pattern detection algorithm that finds the below pattern (THE ENTIRE NIN
 - Your algorithm must report the number of patterns found in Matrix A.
 - You must print the indices from the specific patterns when you find them along with the count.
 
-<div>
+<div align="center">
 <img src="images/image1.png" width="100">
 </div>
 
-<div>
+<div align="center">
 <img src="images/image2.png" width="800">
 </div>
