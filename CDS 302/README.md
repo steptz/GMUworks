@@ -1,5 +1,5 @@
 <div>
-<img src="attachment:356c7cdd-7ba2-4da3-bb2e-71d122e67fca.png" width="800">
+<img src="images/image1.png" width="800">
 </div>
 
 # Assignment 7
@@ -9,7 +9,7 @@ In this assignment we will be using an extracted subset of a CDC dataset coverin
 Link: https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4
 
 <div>
-<img src="attachment:589b24c9-663a-43c9-bbda-eddfcd718f2a.png" width=600>
+<img src="images/image2.png" width=600>
 </div>
 
 
