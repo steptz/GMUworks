@@ -8,7 +8,7 @@ Write a pattern detection algorithm that finds the below pattern (THE ENTIRE NIN
 - You must print the indices from the specific patterns when you find them along with the count.
 
 <div>
-<img src="images/image1.png" width="800">
+<img src="images/image1.png" width="100">
 </div>
 
 <div>
