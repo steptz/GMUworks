@@ -1,19 +1,4 @@
-﻿#
-**Spring 2022**
-
-**Introduction to Agent-Based Modeling and Simulation**
-
-**CDS205**
-
-**Midterm Instructions**
-
-**Posted March 12; Due Sunday March 27 end of day**
-
-**Worth 20% of Grade, e.g., 4 Homeworks**
-
-***Please submit your report on Blackboard as a Word document, with a file name as follows:*** 
-
-**‘*your GMU username* CDS205 Spring 2022 Midterm.docx’*.***
+# Midterm Instructions
 
 Imagine you have been asked to prepare a short report on the expected effects of social distancing, masking, quarantining, and vaccination on a new pandemic. To assist you with preparing this report, you will use a new agent-based model that has just been created. The name of this model is ‘Vaccine\_Impact\_on\_Covid\_DSR’, which you should have downloaded along with this file. You have been asked to focus on the local area, with a time horizon of 1 year. Given the limitations of the model, you can ignore immigration to or emigration from the area, deaths from other causes, and births.
 
@@ -82,5 +67,3 @@ In preparing your report:
   - figure legends are included where necessary
 - include a final page, with the heading “Details of Simulations Runs and Experiments”, identifying key parameter settings for individual simulations runs and/or BehaviorSpace experiments made; it should be possible to identify which runs were used in preparing your tables and figures
 - no references or citations are needed
-
-CDS205 Spring 2022 Midterm Instructions.docx		Page 3 of 3
