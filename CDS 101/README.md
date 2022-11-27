@@ -1,4 +1,4 @@
-# Final Project: The College Scorecard dataset
+# CDS 101: Final Project - The College Scorecard dataset
 
 ## Summary
 
