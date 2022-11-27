@@ -1,4 +1,4 @@
-# Research Project Guidelines
+# CDS 201: Research Project Guidelines
 
 A research project (paper and presentation) will count as 40% of your final grade. Students are expected to work in groups of *three to four*. One grade will be given per group, unless there are extenuating circumstances in which different grades should be given to individuals within a group. This must be discussed with the instructor.
 
