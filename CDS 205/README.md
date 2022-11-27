@@ -1,4 +1,4 @@
-# Midterm Instructions
+# CDS 205: Midterm Instructions
 
 Imagine you have been asked to prepare a short report on the expected effects of social distancing, masking, quarantining, and vaccination on a new pandemic. To assist you with preparing this report, you will use a new agent-based model that has just been created. The name of this model is ‘Vaccine\_Impact\_on\_Covid\_DSR’, which you should have downloaded along with this file. You have been asked to focus on the local area, with a time horizon of 1 year. Given the limitations of the model, you can ignore immigration to or emigration from the area, deaths from other causes, and births.
 
