@@ -1,4 +1,4 @@
-# Assignment #5
+# CDS 205: Assignment 5
 
 Use the same data file, **Numbers1.txt**, from assignment #3. Write a Fortran program with the following specifications:
 
