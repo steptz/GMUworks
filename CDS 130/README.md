@@ -1,4 +1,4 @@
-# Weekly Assignment (WA13)
+# CDS 130: Weekly Assignment (WA13)
 
 Write a pattern detection algorithm that finds the below pattern (THE ENTIRE NINE CELLS—that is, ALL the 1s AND the 0s, not just the 1s!) in the given A matrix. Your tasks are the following:
 
