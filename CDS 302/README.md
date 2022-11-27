@@ -2,7 +2,7 @@
 <img src="images/image1.png" width="800">
 </div>
 
-# Assignment 7
+# CDS 302: Assignment 7
 
 In this assignment we will be using an extracted subset of a CDC dataset covering individual US Covid Cases
 
