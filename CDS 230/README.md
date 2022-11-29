@@ -1,4 +1,4 @@
-﻿**CDS 230: Assignment 8**
+# CDS 230: Assignment 8
 
 Using the total-covid-deaths-per-million-2.csv file, create a time series of just the World entities. In order to do so, you should also reformat the dates. 
 
