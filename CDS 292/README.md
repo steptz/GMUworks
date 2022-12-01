@@ -1,4 +1,4 @@
-# Lesson 8 Part I - Colaboratory Assignment
+# CDS 292: Lesson 8 Part I - Colaboratory Assignment
 
 **Instructions**. Below you will find several text cells with programming (short) problems. You will create how many code cells you need to answer them. Make sure that you and your programming partner contribute to the code.
 
