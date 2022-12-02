@@ -2,14 +2,14 @@ CDS 421: Assignment 6
 Due: As noted on Blackboard
 
 
-Prerequisites
+Prerequisites  
 •	Reviewing class notes for Module 6 – Part 3.
 •	Reading Section 11.5 in the course textbook (see Module 6 for a complete list of readings for this module).
 •	Completing the MapReduce tutorial in AWS Learner Lab (see class notes for Module 6 – Part 3).
 •	Anaconda python installed (including Anaconda PowerShell)
 
 
-Background
+Background  
 In our review of HDFS and Hadoop we introduced MapReduce, a programming model and tool for processing and generating large data sets that enables fault-tolerant distributed computation. Building on principles of functional programming, we examined 3 basic functions, namely, map, shuffle & sort, and reduce. We also demonstrated how MapReduce works by implementing (in python) a word count of a large corpus of text.
 In this assignment you will utilize similar processing steps to analyze airline flight log data obtained from the U.S. Bureau of Transportation Statistics (BTS, www.bts.gov). This data set is comprised of monthly carrier on-time performance reporting from January 2022 to August 2022 (one log file per month with a total of 8 files) and is given in the comma separated values (csv) format. Each record (line) in a log file includes the attributes described below (as given by BTS and also provided in the file Documentation.csv). A sample from a log file is shown in figure 1.
 
