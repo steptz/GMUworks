@@ -1,5 +1,5 @@
 # GMUworks: A Selection of Assignments from GMU Courses
-The following project contains a selection of assignments form GMU courses that I have taken. The purpose of this project is to showcase my best work on different subject matters relation to Data Science and Analytics. To view the projects, click on the title of the course which will redirect you to the courses folder in which the contents of the project are enclosed.
+The following project contains a selection of assignments form GMU courses that I have taken. The purpose of this project is to showcase my best work on different subject matters relation to Data Science and Analytics. To view the projects, click on the title of the course which will redirect you to the courses folder in which the contents of the project are enclosed. For more samples of my work, please contact me through the Contact section of my website.
 
 ## [CDS 101: Introduction to Computational and Data Sciences](https://gitlab.com/steptz/gmuworks/-/tree/main/courses/CDS%20101)
 **Course Description:** Introduction to the use of computers in scientific discovery through simulations and data analysis. Covers historical development and current trends in the field.
