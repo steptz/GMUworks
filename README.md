@@ -34,5 +34,17 @@ The following project contains a selection of assignments form GMU courses that 
 ## [CDS 421: Computational Data Science](https://gitlab.com/steptz/gmuworks/-/tree/main/courses/CDS%20421)
 **Course Description:** Covers the governing framework of data science for storing and processing big data in a distributed computer environment using simple programming models. Includes a comprehensive selection of tools from Hadoop, MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassandra, Kafka.
 
+## [CDS 468: Image Operators and Processing](https://gitlab.com/steptz/gmuworks/-/tree/main/courses/CDS%20468)
+**Course Description:** An introductory examination of image mathematics, computational protocols, and applications. Topics include image operator notation, channel operators, informational operators, intensity operators, geometric operators, image transformations, frequency filtering, and image basis set expansions. This course will build the students’ computational skill set as applied to visual data and create a library of image analysis scripts.
+
+## [CSI 500: Computational Science Tools](https://gitlab.com/steptz/gmuworks/-/tree/main/courses/CSI%20500)
+**Course Description:** Introduces computer skills and packages commonly used in quantitative scientific research.
+
+## [GGS 300: Quantitative Methods for Geographical Analysis](https://gitlab.com/steptz/gmuworks/-/tree/main/courses/GGS%20300)
+**Course Description:** Comprehensive introduction to quantitative methods in spatial analysis, with emphasis on solving geographical research problems. Topics include nature of spatial data; collection of spatial data; preparation of spatial data for mapping, geographic information systems, and statistical analysis; descriptive spatial statistics; areal sampling theory and methods; probability theory and distributions; hypothesis testing; correlation and regression; and areal and point pattern spatial statistics.
+
+## [STAT 362: Introduction to Computer Statistical Packages](https://gitlab.com/steptz/gmuworks/-/tree/main/courses/STAT%20362)
+**Course Description:** Use of computer packages in statistical analysis of data. Topics include data entry, checking, and manipulation, and use of computer statistical packages for graphical procedures, basic descriptive and inferential procedures, and regression.
+
 ## [STAT 463: Introduction to Exploratory Data Analysis](https://gitlab.com/steptz/gmuworks/-/tree/main/courses/STAT%20463)
 **Course Description:** Features statistical graphics, maps and simple models used to bring out patterns in data. Introduces statistical software and addresses data access and import. Presents exploratory strategies motivating data transformations. Stresses the cognitive foundations of good graphics. Graphics include dot plots, box plots, Q-Q plots, parallel coordinate plots, scatterplot matrices and linked views. Exploration includes use of dynamic graphics.
