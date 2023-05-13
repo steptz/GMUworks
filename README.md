@@ -1,6 +1,9 @@
 # GMUworks: A Selection of Assignments from GMU Courses
 The following project contains a selection of assignments form GMU courses that I have taken. The purpose of this project is to showcase my best work on different subject matters relation to Data Science and Analytics. To view the projects, click on the title of the course which will redirect you to the courses folder in which the contents of the project are enclosed. For more samples of my work, please contact me through the Contact section of my website.
 
+## [BUS 310: Business Analytics II](https://gitlab.com/steptz/gmuworks/-/tree/main/courses/BUS%20310)
+**Course Description:** Introduces modeling relationships contained in data and linear models to make predictions in business. Topics include estimation, hypotheses testing, statistical inference, analysis of variance and linear regression techniques. Fundamentals of linear programming to solve optimization problems in business. Apply analytical tools to gain insights from real-life datasets. Hands-on experience and application of the methods to data sets using spreadsheet software.
+
 ## [CDS 101: Introduction to Computational and Data Sciences](https://gitlab.com/steptz/gmuworks/-/tree/main/courses/CDS%20101)
 **Course Description:** Introduction to the use of computers in scientific discovery through simulations and data analysis. Covers historical development and current trends in the field.
 
